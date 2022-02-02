@@ -1,7 +1,5 @@
 code --install-extension eg2.vscode-npm-script
 code --install-extension esbenp.prettier-vscode
-code --install-extension MohithShrivastava.dx-code-companion
-code --install-extension redhat.vscode-xml
 code --install-extension salesforce.salesforce-vscode-slds
 code --install-extension salesforce.salesforcedx-vscode
 code --install-extension salesforce.salesforcedx-vscode-apex
@@ -12,4 +10,3 @@ code --install-extension salesforce.salesforcedx-vscode-lightning
 code --install-extension salesforce.salesforcedx-vscode-lwc
 code --install-extension salesforce.salesforcedx-vscode-soql
 code --install-extension salesforce.salesforcedx-vscode-visualforce
-code --install-extension VignaeshRamA.sfdx-command-builder
